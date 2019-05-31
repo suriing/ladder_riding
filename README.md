@@ -14,6 +14,7 @@ tkinter를 이용해 사다리를 시각화해 출력함
 
 <hr>
 <br>
+
 ![파이썬 결과_cs](https://user-images.githubusercontent.com/38910587/58706023-d07e4480-83eb-11e9-8a6b-193956c0aab1.png)
 <br><br>
 콘설창에서 보이는 출력창
